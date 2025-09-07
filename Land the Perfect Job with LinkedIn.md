@@ -1,22 +1,4 @@
----
-aliases: LinkedIn Masterclass
-category: note
-subCategory: class
-dateCreated: 2025-04-18 11:13
-dateModified: 2025-04-28 09:22
-thumbnail: 
-banner: 
-MoCs: 
-tags: development
-institutions:
-  - Career Masterclasses
-classSeries: 
-speakers:
-  - Jeremy Schifeling
-  - Omar Garriott
-dateStart: 2025-04-18
-dateEnd: 2025-04-22
----
+
 
 [Class Link](https://courses.breakinto.tech/courses/linkedin)
 ## Step 1: Explore
